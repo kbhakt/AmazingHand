@@ -54,14 +54,13 @@ Up to you !
 
 - [Build Resources](#build-resources)
     - [BOM (Bill Of Materials)](#bom-bill-of-materials)
-    - [CAD Files and Onshape document](#CAD-files-and-onshape-document)
+    - [CAD Files and Onshape document](#cad-files-and-onshape-document)
     - [Assembly Guide](#assembly-guide)
-    - [Run_basic_Demo](#Run-basic-Demo)
+    - [Run_basic_Demo](#run-basic-demo)    
 - [Disclaimer](#disclaimer)
-- [AmazingHand_tracking Demo](#AmazingHand_tracking_Demo) 
-- [Project Updates & Community](#project-updates--community)
-    - [Updates history](#updates-history)
-    - [Project posts](#project-posts)
+- [AmazingHand advanced Demo](#amazinghand-advanced-demo)   
+- [Don't want to build it by yourself? Kits are available!](#don't-want-to-build-it-by-yourself-?)    
+- [Project Updates & Community](#project-updates-&-community)
     - [To Do List](#to-do-list)
     - [FAQ](#faq)
     - [Contact](#contact)
@@ -164,6 +163,18 @@ SCS0009 servos have smart capabilities as:
 For more advanced usage using inverse/forward kinematics there are several examples in the [Demo](Demo) directory along with some useful tools to test/configure the motors.
 
 
+
+# Don't want to build it by yourself?
+=> Kits are available here :
+
+Seeed Studio :
+https://www.seeedstudio.com/Amazing-Hand-Right-Hand-The-Open-Source-Robotic-Hand-Developer-Kit.html
+
+WowRobo :
+https://shop.wowrobo.com/products/amazing-hand-the-open-source-robotic-hand-kit
+
+
+
 # Project Updates & Community
 ## Updates from community
 
@@ -183,10 +194,6 @@ Thanks to Jianliang Shen !
 
 GitHub with code: (https://github.com/joanbox24/AmazingHand-with-sg90-servo-force-control)
 
-
-
-- ### You don't want to build it by yourself ? Kits are available visiting this link : 
-https://shop.wowrobo.com/products/amazing-hand-the-open-source-robotic-hand-kit
 
 ## To Do List
 - Design small custom pcb with serial hub and power supply functions, to fit everything in the hand
