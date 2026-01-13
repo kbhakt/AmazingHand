@@ -7,7 +7,8 @@ requires-python = ">=3.9,<=3.12"
 dependencies = [
     "dora-rs>=0.3.11",
     "loop-rate-limiters>=1.1.2",
-    "mediapipe>=0.10.14",
+    "mediapipe>=0.10.14,<=0.10.15",
+    "opencv-python"
 ]
 
 [project.scripts]
