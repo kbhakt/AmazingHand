@@ -194,6 +194,13 @@ Thanks to Jianliang Shen !
 
 GitHub with code: (https://github.com/joanbox24/AmazingHand-with-sg90-servo-force-control)
 
+- ### Amazing hand interface for SO-Arm 🔥
+
+![SoHand](/assets/SoHand.jpg)
+
+STL or Step file can be found [here](https://github.com/pollen-robotics/AmazingHand/tree/main/cad)
+Or directly on onshape workspace, folder "community update"
+
 
 ## To Do List
 - Design small custom pcb with serial hub and power supply functions, to fit everything in the hand
